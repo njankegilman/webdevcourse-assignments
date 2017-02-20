@@ -1,3 +1,6 @@
+# Links to Assignments
+- [Module 2 assignment - my solution](https://njankegilman.github.io/webdevcourse-assignments/module2-my-solution/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/njankegilman/webdevcourse-assignments/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
