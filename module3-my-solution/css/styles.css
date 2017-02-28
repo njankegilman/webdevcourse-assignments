@@ -1,0 +1,25 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #13EF55;
+}
+
+#header-nav {
+  background-color: #F0DD99;
+  border-radius: 0;
+  border: none;
+}
+
+ul.navbar-nav li {
+  width: 100%;
+}
+
+.icon-bar {
+  background-color: #000;
+  font-weight: bolder;
+}
+
+button.navbar-toggle {
+  border: 1px solid #000;
+  border-radius: 5px;
+}
