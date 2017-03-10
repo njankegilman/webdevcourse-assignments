@@ -1,6 +1,7 @@
 # Links to Assignments
 - [Module 2 assignment - my solution](https://njankegilman.github.io/webdevcourse-assignments/module2-my-solution/)
 - [Module 3 assignment - my solution](https://njankegilman.github.io/webdevcourse-assignments/module3-my-solution/)
+- [Module 4 assignment - my solution](https://njankegilman.github.io/webdevcourse-assignments/module4-my-solution/)
 
 ## Welcome to GitHub Pages
 
